@@ -1,3 +1,6 @@
 
 git commands
-git status
+git status (check for changes)
+git log (check history)
+git reset hash(remove the commits above it)
+git stash (changes that you dont want to lose or commit,add changes to staging area and then do git stash)
